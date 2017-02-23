@@ -1,4 +1,4 @@
 # hello-world
-try repository
+try repositories
 
 Hello, I am Jack
